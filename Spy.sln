@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spy", "Spy\Spy.csproj", "{69FD3650-DE30-4A35-A97D-543ABE297BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FD3650-DE30-4A35-A97D-543ABE297BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FD3650-DE30-4A35-A97D-543ABE297BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FD3650-DE30-4A35-A97D-543ABE297BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FD3650-DE30-4A35-A97D-543ABE297BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E87AE112-B701-4F64-B546-EFAB8BC64647}
+	EndGlobalSection
+EndGlobal
